@@ -1,0 +1,22 @@
+{
+  "name": "react-tic-tac-toe",
+  "version": "1.0.0",
+  "description": "1st react game tic tac toe",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ty-Won/react-tic-tac-toe.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ty-Won/react-tic-tac-toe/issues"
+  },
+  "homepage": "https://github.com/Ty-Won/react-tic-tac-toe#readme",
+  "dependencies": {
+    "create-react-app": "^1.5.2"
+  }
+}
