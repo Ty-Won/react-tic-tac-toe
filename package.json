@@ -4,6 +4,7 @@
   "description": "1st react game tic tac toe",
   "main": "index.js",
   "scripts": {
+    "start":"cd tic-tac-toe && npm start",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
